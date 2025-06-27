@@ -1,0 +1,5 @@
+INSERT INTO PressHouses (Name, City, ContactInfo) VALUES ('City Print', 
+'Istanbul','info@cityprint.com'); 
+INSERT INTO PressHouses (Name, City, ContactInfo) VALUES ('Global Press', 'Ankara', 
+'contact@globalpress.com'); INSERT INTO PressHouses (Name, City, ContactInfo) VALUES 
+('Elite Printing', 'Izmir', 'elite@printing.com');
