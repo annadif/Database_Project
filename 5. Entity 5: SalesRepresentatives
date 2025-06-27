@@ -1,0 +1,4 @@
+INSERT INTO SalesRepresentatives (Name, City, ContactInfo) VALUES ('Michael Green', 
+'Izmir', 'michael@sales.com'); INSERT INTO SalesRepresentatives (Name, City, ContactInfo) 
+VALUES ('Linda Brown', 'Bursa', 'linda@booksales.com'); INSERT INTO SalesRepresentatives 
+(Name, City, ContactInfo) VALUES ('Kevin Johnson', 'Antalya', 'kevin@salesbook.com');
