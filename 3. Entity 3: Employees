@@ -1,0 +1,6 @@
+INSERT INTO Employees (Name, Qualification, YearsInCompany, Role) VALUES ('Emily Clark', 
+'Editor', 5, 'Editing'); 
+INSERT INTO Employees (Name, Qualification, YearsInCompany, Role) VALUES ('James 
+Blake', 'Designer', 3, 'Design'); 
+INSERT INTO Employees (Name, Qualification, YearsInCompany, Role) VALUES ('David 
+White', 'Marketing Specialist', 2, 'Marketing');
