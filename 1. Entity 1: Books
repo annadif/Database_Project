@@ -1,0 +1,5 @@
+INSERT INTO Books (Title, Type, PublicationStatus, PrintingAmount) VALUES ('The Great 
+Adventure', 'Novel', 'Published', 5000); INSERT INTO Books (Title, Type, PublicationStatus, 
+PrintingAmount) VALUES ('Science Simplified', 'Biography', 'Draft', 2000); 
+INSERT INTO Books (Title, Type, PublicationStatus, PrintingAmount) VALUES ('Math Made 
+Easy', 'PreparationBook', 'Published', 3000);
