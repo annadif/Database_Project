@@ -1,0 +1,5 @@
+CREATE TABLE BookAuthors (      
+BookID NUMBER REFERENCES Books(BookID),  
+AuthorID NUMBER REFERENCES Authors(AuthorID),  
+PRIMARY KEY (BookID, AuthorID)   
+);  
