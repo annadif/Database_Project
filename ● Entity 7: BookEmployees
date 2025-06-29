@@ -1,0 +1,5 @@
+(Many-to-Many relationship) CREATE TABLE BookEmployees ( 
+BookID NUMBER REFERENCES Books(BookID), 
+EmployeeID NUMBER REFERENCES Employees(EmployeeID), PRIMARY KEY (BookID, 
+EmployeeID)     
+);  
