@@ -1,0 +1,3 @@
+INSERT INTO BookAuthors (BookID, AuthorID) VALUES (1, 1); INSERT INTO BookAuthors 
+(BookID, AuthorID) VALUES (2, 2); INSERT INTO BookAuthors (BookID, AuthorID) VALUES 
+(3,3);
