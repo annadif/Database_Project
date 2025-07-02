@@ -1,0 +1,3 @@
+INSERT INTO BookEmployees (BookID, EmployeeID) VALUES (1, 1); INSERT INTO 
+BookEmployees (BookID, EmployeeID) VALUES (2, 2); INSERT INTO BookEmployees (BookID, 
+EmployeeID) VALUES (3, 3);
