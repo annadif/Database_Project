@@ -1,0 +1,6 @@
+INSERT INTO Contracts (PressHouseID, RepresentativeID, DateSigned) VALUES (1, 1, 
+TO_DATE('2025-05-12', 'YYYY-MM-DD')); INSERT INTO Contracts (PressHouseID, 
+RepresentativeID, DateSigned) VALUES (2, 2, TO_DATE('2025-05-13', 'YYYY-MM-DD')); INSERT 
+INTO Contracts (PressHouseID, RepresentativeID, DateSigned) VALUES (3, 3, 
+TO_DATE('2025-05-14', 'YYYY-MM-DD'));      
+COMMIT; 
